@@ -1,0 +1,198 @@
+{
+	
+	"questions": [
+		{
+			"question" : "What are you passionate about?",
+			"answer" : "<textarea class='form-control' name='ans-1'></textarea>",
+			"applicant-ans" : "Ans-1"
+		},
+		{
+			"question" : "Tell us about some experiences you've had in your life that have been difficult or challenging",
+			"answer" : "<textarea class='form-control' name='ans-2'></textarea>",
+			"applicant-ans" : "Ans-2"
+		},
+		{
+			"question" : "What change do you want to make in the world in your lifetime?",
+			"answer" : "<textarea class='form-control' name='ans-3'></textarea>",
+			"applicant-ans" : "Ans-3"
+		},
+		{
+			"question" : "If you met an alien, how would you describe yourself to that being?",
+			"answer" : "<textarea class='form-control' name='ans-4'></textarea>",
+			"applicant-ans" : "Ans-4"
+		},
+		{
+			"question" : "Tell us about your failures",
+			"answer" : "<textarea class='form-control' name='ans-5'></textarea>",
+			"applicant-ans" : "Ans-5"
+		},
+		{
+			"question" : "What are your goals?",
+			"answer" : "<textarea class='form-control' name='ans-6'></textarea>",
+			"applicant-ans" : "Ans-6"
+		},
+		{
+			"question" : "Why do you want a job?",
+			"answer" : "<textarea class='form-control' name='ans-7'></textarea>",
+			"applicant-ans" : "Ans-7"
+		},
+		{
+			"question" : "What do you know about web products? Web technologies? Saas?",
+			"answer" : "<textarea class='form-control' name='ans-8'></textarea>",
+			"applicant-ans" : "Ans-8"
+		},
+		{
+			"question" : "What do we mean when we say we are ramen profitable, and chaotic good?",
+			"answer" : "<textarea class='form-control' name='ans-9'></textarea>",
+			"applicant-ans" : "Ans-9"
+		},
+		{
+			"question" : "Are you sure you want to work for a startup with less pay but offers a lot of opportunities?",
+			"answer" : "<textarea class='form-control' name='ans-10'></textarea>",
+			"applicant-ans" : "Ans-10"
+		},
+		{
+			"question" : "If we give you a P200,000 budget, what will you do with it?",
+			"answer" : "<textarea class='form-control' name='ans-11'></textarea>",
+			"applicant-ans" : "Ans-11"
+		},
+		{
+			"question" : "What industry are we in? Who are our competitors?",
+			"answer" : "<textarea class='form-control' name='ans-12'></textarea>",
+			"applicant-ans" : "Ans-12"
+		},
+		{
+			"question" : "Have you ever used/visited one of our products?",
+			"answer" : "<textarea class='form-control' name='ans-13'></textarea>",
+			"applicant-ans" : "Ans-13"
+		},
+		{
+			"question" : "What's a creative way of marketing web based services/products to the Filipino?",
+			"answer" : "<textarea class='form-control' name='ans-14'></textarea>",
+			"applicant-ans" : "Ans-14"
+		},
+		{
+			"question" : "Name a piece of technology you've read about recently. What is your own creative execution to monetize the product/service.",
+			"answer" : "<textarea class='form-control' name='ans-15'></textarea>",
+			"applicant-ans" : "Ans-15"
+		},
+		{
+			"question" : "Describe a technical problem you had and how you solved it.",
+			"answer" : "<textarea class='form-control' name='ans-16'></textarea>",
+			"applicant-ans" : "Ans-16"
+		},
+		{
+			"question" : "Outline you experience or familiarity with the following:
+							Scrum, Agile
+							Ruby, Rails, PHP
+							Wordpress, Drupal, Joomla
+							API Integration
+							JavaScript, XHTML, CSS
+							MySQL
+							Android, iOS
+							Entrepreneurship",
+			"answer" : "<textarea class='form-control' name='ans-17'></textarea>",
+			"applicant-ans" : "Ans-17"
+		},
+		{
+			"question" : "What do you know about the web and mobile technologies industry (both local and global)?",
+			"answer" : "<textarea class='form-control' name='ans-18'></textarea>",
+			"applicant-ans" : "Ans-18"
+		},
+		{
+			"question" : "Name three websites that you visit often and like. What do you like about the user interface and design? Choose one of the three sites and comment on what new feature or project you would work on. How would you design it?",
+			"answer" : "<textarea class='form-control' name='ans-19'></textarea>",
+			"applicant-ans" : "Ans-19"
+		},
+		{
+			"question" : "If you are a business owner, how would you issue equity?",
+			"answer" : "<textarea class='form-control' name='ans-20'></textarea>",
+			"applicant-ans" : "Ans-20"
+		},
+		{
+			"question" : "Do you have any SEO experience? Please elaborate.",
+			"answer" : "<textarea class='form-control' name='ans-21'></textarea>",
+			"applicant-ans" : "Ans-21"
+		},
+		{
+			"question" : "How can we earn using Facebook?",
+			"answer" : "<textarea class='form-control' name='ans-22'></textarea>",
+			"applicant-ans" : "Ans-22"
+		},
+		{
+			"question" : "How do you make sure that your code is both safe and fast?",
+			"answer" : "<textarea class='form-control' name='ans-23'></textarea>",
+			"applicant-ans" : "Ans-23"
+		},
+		{
+			"question" : "What is the last thing you learned about algorithms from a book, magazine or web site?",
+			"answer" : "<textarea class='form-control' name='ans-24'></textarea>",
+			"applicant-ans" : "Ans-24"
+		},
+		{
+			"question" : "Do you know anything about Augmented Reality?",
+			"answer" : "<textarea class='form-control' name='ans-25'></textarea>",
+			"applicant-ans" : "Ans-25"
+		},
+		{
+			"question" : "Any interest in Android/iPhone app development?",
+			"answer" : "<textarea class='form-control' name='ans-26'></textarea>",
+			"applicant-ans" : "Ans-26"
+		},
+		{
+			"question" : "What is your Facebook page? LinkedIn page? Yunnoh page? Twitter page?",
+			"answer" : "<textarea class='form-control' name='ans-27'></textarea>",
+			"applicant-ans" : "Ans-27"
+		},
+		{
+			"question" : "Which kind of diagrams do you use to track progress in a project?",
+			"answer" : "<textarea class='form-control' name='ans-28'></textarea>",
+			"applicant-ans" : "Ans-28"
+		},
+		{
+			"question" : "Any experience in marketing a service/product? Making a successful sale?",
+			"answer" : "<textarea class='form-control' name='ans-29'></textarea>",
+			"applicant-ans" : "Ans-29"
+		},
+		{
+			"question" : "Do you currently own a laptop? What are the specs?",
+			"answer" : "<textarea class='form-control' name='ans-30'></textarea>",
+			"applicant-ans" : "Ans-30"
+		},
+		{
+			"question" : "When are you available to start?",
+			"answer" : "<textarea class='form-control' name='ans-31'></textarea>",
+			"applicant-ans" : "Ans-31"
+		},
+		{
+			"question" : "How many hours per week do you want?",
+			"answer" : "<textarea class='form-control' name='ans-32'></textarea>",
+			"applicant-ans" : "Ans-32"
+		},	
+		{
+			"question" : "How much per hour do you want?",
+			"answer" : "<textarea class='form-control' name='ans-33'></textarea>",
+			"applicant-ans" : "Ans-33"
+		},
+		{
+			"question" : "How far of a commute is Taguig for you? Will you be able to work in Taguig Monday through Friday between 8am and 5pm with the possibility of OT? Would you be willing to find a location nearer the office, during the weekdays, if Taguig is too far for you?",
+			"answer" : "<textarea class='form-control' name='ans-34'></textarea>",
+			"applicant-ans" : "Ans-34"
+		},
+		{
+			"question" : "Question-35",
+			"answer" : "<textarea class='form-control' name='ans-35'></textarea>",
+			"applicant-ans" : "Ans-35"
+		},
+		{
+			"question" : "Question-36",
+			"answer" : "<textarea class='form-control' name='ans-36'></textarea>",
+			"applicant-ans" : "Ans-36"
+		},
+		{
+			"question" : "Question-37",
+			"answer" : "<textarea class='form-control' name='ans-37'></textarea>",
+			"applicant-ans" : "Ans-37"
+		}
+	]
+}
